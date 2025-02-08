@@ -4,6 +4,6 @@ body{
     /* background-color: var(--variable-example); */
 }
 
-bgdark{
+.bgdark{
     background-color: var(--variable-example);
 }
