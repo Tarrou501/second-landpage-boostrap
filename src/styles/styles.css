@@ -1,0 +1,9 @@
+@import url('./global.css');
+
+body{
+    /* background-color: var(--variable-example); */
+}
+
+bgdark{
+    background-color: var(--variable-example);
+}
